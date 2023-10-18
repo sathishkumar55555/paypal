@@ -46,6 +46,7 @@ export default function MoneyHub() {
           <div className="h-[600px] ml-8 w-[400px] rounded-3xl text-blue-900  hover:border hover:border-blue-500">
             <div className="object-contain">
               <Image
+              alt="some-image"
                 className="rounded-t-3xl"
                 src={d.img}
                 width="400"

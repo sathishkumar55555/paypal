@@ -23,7 +23,7 @@ export default function Payment() {
         Send money
     </div>
     <div className='mt-5 ml-44'>
-        <Image src="/right-arrow.png" width="40" height="40"/>
+        <Image alt="some-image" src="/right-arrow.png" width="40" height="40"/>
         
     </div>
     </div>
@@ -39,7 +39,7 @@ export default function Payment() {
         Pay Later
     </div>
     <div className='mt-5 ml-44'>
-        <Image src="/right-arrow.png" width="40" height="40"/>
+        <Image alt="some-image" src="/right-arrow.png" width="40" height="40"/>
         
     </div>
     <div className='w-12'>
@@ -65,7 +65,7 @@ export default function Payment() {
         Paypal rewards
     </div>
     <div className='mt-5 ml-44'>
-        <Image src="/right-arrow.png" width="40" height="40"/>
+        <Image alt="some-image" src="/right-arrow.png" width="40" height="40"/>
         
     </div>
     </div>
@@ -81,7 +81,7 @@ export default function Payment() {
         Secure checkout
     </div>
     <div className='mt-5 ml-44'>
-        <Image src="/right-arrow.png" width="40" height="40"/>
+        <Image alt="some-image" src="/right-arrow.png" width="40" height="40"/>
         
     </div>
     <div className='w-12'>

@@ -32,7 +32,7 @@ All screen images are for illustrative purposes only.</p>
 
        <div>
       <div className='mt-24 text-sm'>
-       <Image src="/paypal2.png" width="200" height="200"/>
+       <Image alt="some-image" src="/paypal2.png" width="200" height="200"/>
         </div>
        <div className='flex '>
        <div className='flex space-x-6 text-blue-900'>
@@ -64,7 +64,7 @@ All screen images are for illustrative purposes only.</p>
             
         </div>
         <div className='ml-[550px] mt-1'>
-            <Image src="/us.svg" width="20" height="20"/>
+            <Image alt="some-image" src="/us.svg" width="20" height="20"/>
         </div>
        
        

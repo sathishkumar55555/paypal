@@ -33,7 +33,7 @@ export default function Login() {
             
         </div>
         <div className='rounded-xl mt-0'>
-        <Image src="/login.png"className='rounded-3xl' width="500" height="350"/>
+        <Image alt="some-image" src="/login.png"className='rounded-3xl' width="500" height="350"/>
 
         </div>
     </div>

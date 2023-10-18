@@ -101,7 +101,7 @@ export default function Hero() {
 
       </div>
       <div className='ml-32 rectangle'>
-        <Image src="/paypalmobile.png" width="500" height="100" />
+        <Image alt="some-image" src="/paypalmobile.png" width="500" height="100" />
 
       </div>
       <hr className="mx-auto" />

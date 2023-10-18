@@ -23,7 +23,7 @@ export default function Header() {
           <div>
             <div className="flex items-center justify-between py-3 md:py-5 md:block">
               <div className="flex  justify-self-center mt-2">
-                <Image src="/paypal.png" width="50" height="50" />
+                <Image alt="some-image" src="/paypal.png" width="50" height="50" />
                 <h2 className="text-2xl text-white font-bold items-center mt-2 ml-6">
                   Paypal
                 </h2>

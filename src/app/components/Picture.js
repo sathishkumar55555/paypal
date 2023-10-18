@@ -18,13 +18,13 @@ export default function Picture() {
  
                         </div>
                         <div className='mb-4 py-3 ml-2'>
-                            <Image src="/right-arrow.png" width="40" height="40"/>
+                            <Image alt="some-image" src="/right-arrow.png" width="40" height="40"/>
                         </div>
 
                     </div>
                 </div>
                 <div className='mt-12 ml-32'>
-                <Image src="/payment.png" width="600" height="600"/>
+                <Image alt="some-image" src="/payment.png" width="600" height="600"/>
             </div>
             </div>
             

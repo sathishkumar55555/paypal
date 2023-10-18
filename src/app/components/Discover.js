@@ -11,14 +11,14 @@ export default function Discover() {
            <div className='flex'>
            <div className='flex bg-[#111] p-6 rounded-2xl'>
                 <div>
-                    <Image src="/discover.svg" width="50" height="60"/>
+                    <Image alt="discover" src="/discover.svg" width="50" height="60"/>
                     
                 </div>
                 <div className='ml-6 mt-4 text-lg font-semibold text-blue-900'>
                     Download the App
                 </div>
                 <div className='mt-3 ml-44'>
-                <Image src="/right-arrow.png" width="40" height="40"/>
+                <Image alt="discover" src="/right-arrow.png" width="40" height="40"/>
                 </div>
                 <div className='w-6'>
 
@@ -26,14 +26,14 @@ export default function Discover() {
             </div>
             <div className='flex bg-[#111] p-6 rounded-2xl ml-12 px-4'>
                 <div>
-                    <Image src="/discover2.svg" width="50" height="60"/>
+                    <Image alt="discover" src="/discover2.svg" width="50" height="60"/>
                     
                 </div>
                 <div className='ml-6 mt-4 text-lg font-semibold text-blue-900'>
                     Explore Crypto
                 </div>
                 <div className='mt-3 ml-56'>
-                <Image src="/right-arrow.png" width="40" height="40"/>
+                <Image alt="discover" src="/right-arrow.png" width="40" height="40"/>
                 </div>
                 <div className='w-6'>
 
@@ -43,14 +43,14 @@ export default function Discover() {
            <div className='flex mt-12'>
            <div className='flex bg-[#111] p-6 rounded-2xl'>
                 <div>
-                    <Image src="/discover3.svg" width="50" height="60"/>
+                    <Image alt="discover" src="/discover3.svg" width="50" height="60"/>
                     
                 </div>
                 <div className='ml-6 mt-4 text-lg font-semibold text-blue-900'>
                     Start Selling
                 </div>
                 <div className='mt-3 ml-56'>
-                <Image src="/right-arrow.png" width="40" height="40"/>
+                <Image alt="discover" src="/right-arrow.png" width="40" height="40"/>
                 </div>
                 <div className='w-8'>
 
@@ -58,14 +58,14 @@ export default function Discover() {
             </div>
             <div className='flex bg-[#111] p-6 rounded-2xl ml-12 px-4'>
                 <div>
-                    <Image src="/discover2.svg" width="50" height="60"/>
+                    <Image alt="discover" src="/discover2.svg" width="50" height="60"/>
                     
                 </div>
                 <div className='ml-6 mt-4 text-lg font-semibold text-blue-900'>
                     Learn How Paypal works
                 </div>
                 <div className='mt-3 ml-[147px]'>
-                <Image src="/right-arrow.png" width="40" height="40"/>
+                <Image alt="discover" src="/right-arrow.png" width="40" height="40"/>
                 </div>
                 <div className='w-6'>
 
