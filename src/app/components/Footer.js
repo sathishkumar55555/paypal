@@ -96,7 +96,7 @@ All screen images are for illustrative purposes only.</p>
             
         </div>
         <div className='ml-[180px] text-slate-400'>
-        &copy;1999-2023
+        `&copy;`1999-2023
 
         </div>
         <div className='flex space-x-4 ml-4 text-blue-900'>

@@ -6,7 +6,7 @@ export default function Info() {
   <div>
       <div className='ml-44 mt-24 flex'>
         <div className='rounded-xl'>
-        <Image src="/info1.png"className='rounded-3xl' width="600" height="850"/>
+        <Image alt="some image" src="/info1.png"className='rounded-3xl' width="600" height="850"/>
 
         </div>
         <div className='p-32 mt-6'>
@@ -23,7 +23,7 @@ export default function Info() {
  
                         </div>
                         <div className=' py-3 ml-2'>
-                            <Image src="/right-arrow.png" width="40" height="40"/> 
+                            <Image alt="some image" src="/right-arrow.png" width="40" height="40"/> 
                         </div>
 
                     </div>
@@ -32,7 +32,7 @@ export default function Info() {
                         Browse Credit Card Products and Cards
                         </div>
                         <div className='mb-4 py-3 ml-2'>
-                            <Image src="/right-arrow.png" width="40" height="40"/> 
+                            <Image alt="some image" src="/right-arrow.png" width="40" height="40"/> 
                         </div>
 
                     </div>
@@ -63,7 +63,7 @@ export default function Info() {
                        Learn about Paypal Rewards
                         </div>
                         <div className='mb-4 py-3 ml-2'>
-                            <Image src="/right-arrow.png" width="40" height="40"/> 
+                            <Image alt="some image" src="/right-arrow.png" width="40" height="40"/> 
                         </div>
 
                     </div>
@@ -72,7 +72,7 @@ export default function Info() {
             
         </div>
         <div className='rounded-xl'>
-        <Image src="/info2.png"className='rounded-3xl' width="600" height="850"/>
+        <Image alt="some image" src="/info2.png"className='rounded-3xl' width="600" height="850"/>
 
         </div>
     </div>
@@ -93,7 +93,7 @@ export default function Info() {
                        Send and receive cash
                         </div>
                         <div className='mb-4 py-2 ml-2'>
-                            <Image src="/right-arrow.png" width="40" height="40"/> 
+                            <Image alt="some image" src="/right-arrow.png" width="40" height="40"/> 
                         </div>
 
                     </div>
@@ -102,7 +102,7 @@ export default function Info() {
             
         </div>
         <div className='rounded-xl mt-8'>
-        <Image src="/info3.png"className='rounded-3xl' width="600" height="850"/>
+        <Image alt="some image" src="/info3.png"className='rounded-3xl' width="600" height="850"/>
 
         </div>
     </div>
