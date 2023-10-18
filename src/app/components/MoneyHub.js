@@ -47,8 +47,8 @@ export default function MoneyHub() {
       <div className="mt-12 -ml-[30px] flex">
         {data.map((d) => (
           
-          <div className="h-[600px] ml-8 w-[400px] rounded-3xl text-blue-900  hover:border hover:border-blue-500">
-            <div className="object-contain" key={d.id}>
+          <div className="h-[600px] ml-8 w-[400px] rounded-3xl text-blue-900  hover:border hover:border-blue-500" key={d.id}>
+            <div className="object-contain" >
               <Image
               alt="some-image"
                 className="rounded-t-3xl"
