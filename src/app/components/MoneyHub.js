@@ -4,6 +4,7 @@ import Image from "next/image";
 export default function MoneyHub() {
   const data = [
     {
+        id:1,
       img: "/hub1.png",
       mode: "Payments",
       message: "Sending money to abroad? What do know about international...",
@@ -12,6 +13,7 @@ export default function MoneyHub() {
       type: "Article",
     },
     {
+        id:2,
       img: "/hub2.png",
       mode: "Money Management",
       message: "Using apps to transfer money from different banks ",
@@ -20,6 +22,7 @@ export default function MoneyHub() {
       type: "Article",
     },
     {
+        id:3,
       img: "/hub3.png",
       mode: "Shopping",
       message: "Using buy now,pay later when shopping for clothes",
@@ -43,8 +46,9 @@ export default function MoneyHub() {
       </div>
       <div className="mt-12 -ml-[30px] flex">
         {data.map((d) => (
+          
           <div className="h-[600px] ml-8 w-[400px] rounded-3xl text-blue-900  hover:border hover:border-blue-500">
-            <div className="object-contain">
+            <div className="object-contain" key={d.id}>
               <Image
               alt="some-image"
                 className="rounded-t-3xl"
